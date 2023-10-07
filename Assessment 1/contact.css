@@ -1,0 +1,85 @@
+.main
+{
+    height: 550px;
+    width: 700px;
+    background-color: skyblue;
+    margin:25% 25% 25% 25%;
+}
+.contact
+{
+    font-size: 30px;
+    /* border: 5px solid black; */
+    height: 50px;
+    /* margin: 0 0 0 20px; */
+}
+.address
+{
+    background-color: white;
+    height: 100px;
+    margin: 20px 20px 20px 20px;
+    font-size: 8px;
+    display: flex;
+}
+.ad1
+{
+    margin: 0 0 0 10px;
+}
+.ad2
+{
+    margin: 40px 0 0 30px;
+    font-size: 15px;
+}
+.c
+{
+    color: red;
+}
+.e
+{
+    color: blue;
+}
+
+.ad3
+{
+    font-size: 30px;
+    margin: 35px 0 0 200px;
+    
+}
+.info
+{
+background-color: white;
+height: auto;
+margin:30px 20px 20px 20px;
+display: flex;
+}
+.info1
+{
+    height: 100%;
+    width: 40%;
+    padding: 10px;
+}
+.in1
+{
+    padding: 10px;
+    display: flex;
+    gap: 5px;
+}
+.in2
+{
+    padding: 10px;
+    display: flex;
+    gap:5px;
+}
+.in3
+{
+    padding: 10px;
+}
+.in4
+{
+    padding: 10px 30px;
+    background-color: red;
+    
+}
+.info2
+{
+    padding: 10px 10px 10px 110px;
+}
